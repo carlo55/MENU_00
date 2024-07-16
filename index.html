@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tab Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body onload="openPage('Page1', document.querySelector('.tab button'))">
+    <div class="tab">
+        <button class="tablinks" onclick="openPage('Page1', this)">Page 1</button>
+        <button class="tablinks" onclick="openPage('Page2', this)">Page 2</button>
+        <button class="tablinks" onclick="openPage('Page3', this)">Page 3</button>
+    </div>
+
+    <div id="Page1" class="tabcontent"></div>
+    <div id="Page2" class="tabcontent"></div>
+    <div id="Page3" class="tabcontent"></div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
