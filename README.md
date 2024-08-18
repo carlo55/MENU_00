@@ -20,3 +20,5 @@
       Velocità media, max
       Distanza
   *  Cardio
+- Repository download APK
+- 
