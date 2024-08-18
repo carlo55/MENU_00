@@ -13,3 +13,10 @@
     * AGGIUNGI RECORD
     * CANCELLA RECORD 
       
+### ANDROID:
+- Micro funzioni x Kayak:
+  *  Velocità e accelerazione con output audio
+  *  Start/stop
+      Velocità media, max
+      Distanza
+  *  Cardio
