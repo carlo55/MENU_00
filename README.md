@@ -1,4 +1,8 @@
-## PUNTI DA SVILUPPARE xxxxx
+# progetto di sviluppo mini portale 
+  - host su github
+  - db su google sheets
+  - su android in html o app (da valutare)
+## PUNTI DA SVILUPPARE 
 #### HTML: 
 - PAGINA DI ACCREDITO  
 - MENU E RICHIAMO PAGINE
