@@ -19,8 +19,9 @@
       
 ### ANDROID:
 - Micro funzioni x Kayak:
-  *  Velocità e accelerazione con output audio
-  *  Start/stop
+  *  Velocità e accelerazione con output audio (attivabile)
+      Display gigante e ad alto contrasto x monitor su pedaliera
+  *  Start/stop (comando Vocale? Start/stop/reset)
       Velocità media, max
       Distanza
   *  Cardio
